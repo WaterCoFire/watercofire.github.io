@@ -1,0 +1,5 @@
+#page-top {
+    background-size: cover;  /* 背景图充满容器，保持比例 */
+    background-position: center;  /* 让图片居中显示 */
+    background-attachment: fixed;  /* 背景图片固定，滚动时不动 */
+  }
